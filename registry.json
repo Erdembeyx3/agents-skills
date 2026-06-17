@@ -50,12 +50,12 @@
       "path": "skills/laso-finance"
     },
     {
-  "slug": "clawhunter-bounties",
-  "name": "Clawhunter Bounties",
-  "description": "Find and vet Pump Fun GO bounties: AI-triaged feed, capability matching, and creator payout-history + project-legitimacy research. Each bounty returns the create-tool calls that produce its deliverable.",
-  "author": "clawhunter",
-  "tags": ["social", "analysis", "utility"],
-  "path": "skills/clawhunter-bounties"
-}
+      "slug": "clawhunter-bounties",
+      "name": "Clawhunter Bounties",
+      "description": "Find and vet Pump Fun GO bounties: AI-triaged feed, capability matching, and creator payout-history + project-legitimacy research. Each bounty returns the create-tool calls that produce its deliverable.",
+      "author": "clawhunter",
+      "tags": ["clawhunter", "bounties", "pump.fun", "solana", "analysis", "x402"],
+      "path": "skills/clawhunter-bounties"
+    }
   ]
 }
